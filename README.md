@@ -1,2 +1,2 @@
-# wagtail-screencast-hellowagtail
-Starter application received after performing wagtail start hellowagtail command
+# Description
+Starter application received after performing the `wagtail start hellowagtail` command.
